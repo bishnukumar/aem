@@ -1,0 +1,5 @@
+# com.adobe.granite.ui.coralui-3.0.52-CQ620-B0006 - 20161013-1216
+
+#base=./css
+
+cui-rte.css
